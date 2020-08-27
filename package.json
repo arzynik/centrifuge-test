@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "centrifuge": "2.6.4",
+    "jsonwebtoken": "8.5.1",
+    "uuid": "8.3.0",
+    "ws": "7.3.1"
+  }
+}
